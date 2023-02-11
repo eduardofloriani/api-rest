@@ -20,6 +20,7 @@
     "sucrase": "^3.29.0"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "dotenv": "^16.0.3",
     "mariadb": "^3.0.2",
     "sequelize": "^6.28.0"
